@@ -24,8 +24,9 @@ Monday - session / recap + next
 
 
 ## Try It
+[Build SafetyNet](build-safety-net.md)
 
-[Paradigm shift](paradigm-shift.md)
+[Paradigm shift](paradigm-shift.md) &nbsp;&nbsp;&nbsp; [Recap](recap-paradigm-shift.md)
 
 ## References
 
