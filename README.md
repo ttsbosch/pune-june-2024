@@ -24,7 +24,9 @@ Monday - session / recap + next
 
 
 ## Try It
-[Build SafetyNet](build-safety-net.md)
+[TDD In Action](tdd-in-action.md) 
+
+[Build SafetyNet](build-safety-net.md) &nbsp;&nbsp; [Recap](recap-build-safety-net.md)
 
 [Paradigm shift](paradigm-shift.md) &nbsp;&nbsp;&nbsp; [Recap](recap-paradigm-shift.md) &nbsp;&nbsp;[More...](https://github.com/tts-tcq-2024/assignments/blob/main/paradigmShiftRecap.md)
 
