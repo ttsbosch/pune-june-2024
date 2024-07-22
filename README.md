@@ -24,6 +24,8 @@ Monday - session / recap + next
 
 
 ## Try It
+[Being Principled](srp.md) &nbsp;&nbsp;&nbsp;
+
 [TDD In Action](tdd-in-action.md) 
 
 [Build SafetyNet](build-safety-net.md) &nbsp;&nbsp; [Recap](recap-build-safety-net.md)
