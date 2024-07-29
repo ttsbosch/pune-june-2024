@@ -24,9 +24,11 @@ Monday - session / recap + next
 
 
 ## Try It
-[Being Principled](srp.md) &nbsp;&nbsp;&nbsp;
+[Extend And Refactor](paradigm-shift-extend.md)
 
-[TDD In Action](tdd-in-action.md) &nbsp;&nbsp; [Recap](srp-recap.md)
+[Being Principled](srp.md) &nbsp;&nbsp;&nbsp;  [Recap](srp-recap.md)
+
+[TDD In Action](tdd-in-action.md) 
 
 [Build SafetyNet](build-safety-net.md) &nbsp;&nbsp; [Recap](recap-build-safety-net.md)
 
