@@ -24,6 +24,8 @@ Monday - session / recap + next
 
 
 ## Try It
+[Effective Testing](fail-test.md)
+
 [Extend And Refactor](paradigm-shift-extend.md)
 
 [Being Principled](srp.md) &nbsp;&nbsp;&nbsp;  [Recap](srp-recap.md)
